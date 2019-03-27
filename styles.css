@@ -1,0 +1,45 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  border: 1px ;
+}
+
+header{
+  text-align: center;
+  font-size: 34px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin: 15px;
+  
+
+}
+
+.section{
+    width: 50%;
+    display: inline-block;
+    height: 100%;
+}
+
+th{
+  font-size: 23px
+}
+
+.second{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin: 15px;
+}
+
+button{
+  
+}
+
+#cell{
+  width: 50%;
+  border: 1px solid black;
+  background-color: blue;
+}
